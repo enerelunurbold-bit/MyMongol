@@ -1,0 +1,102 @@
+{
+  "khuvsgul": {
+    "title": "File:Khuvsgul Lake.jpg",
+    "artist": "Teo Romera",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Khuvsgul_Lake.jpg",
+    "file": "assets/khuvsgul.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Khuvsgul Lake, Mongolia."
+  },
+  "terelj": {
+    "title": "File:Krajobraz w Parku Narodowym Gorchi-Tereldż 56.JPG",
+    "artist": "Marcin Konsek",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Krajobraz_w_Parku_Narodowym_Gorchi-Tereld%C5%BC_56.JPG",
+    "file": "assets/terelj.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Landscape. Gorkhi-Terelj National Park. Mongolia."
+  },
+  "hustai": {
+    "title": "File:Hustai National Park landscape.jpg",
+    "artist": "Chinneeb",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hustai_National_Park_landscape.jpg",
+    "file": "assets/hustai.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Hustai National Park landscape"
+  },
+  "bayanzag": {
+    "title": "File:Bayanzag (Flaming Cliffs).jpg",
+    "artist": "Richard Mortel",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bayanzag_(Flaming_Cliffs).jpg",
+    "file": "assets/bayanzag.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Bayanzag (Flaming Cliffs), Gobi Desert, Mongolia (9)"
+  },
+  "khongor": {
+    "title": "File:Khongoryn Els 04.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Khongoryn_Els_04.jpg",
+    "file": "assets/khongor.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Sand dunes of Khongoryn Els, Gobi Gurvansaikhan National Park, Mongolia"
+  },
+  "terkhiin": {
+    "title": "File:Terkhiin Tsagaan Lake 01.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Terkhiin_Tsagaan_Lake_01.jpg",
+    "file": "assets/terkhiin.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Terkhiin Tsagaan Lake, Arkhangai province, Mongolia"
+  },
+  "kharkhorin": {
+    "title": "File:Erdene Zuu Monastery 06.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Erdene_Zuu_Monastery_06.jpg",
+    "file": "assets/kharkhorin.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Erdene Zuu Monastery, Kharkhorin, Mongolia"
+  },
+  "uvs": {
+    "title": "File:Uvs nuur.jpg",
+    "artist": "Oschtan",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Uvs_nuur.jpg",
+    "file": "assets/uvs.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Uvs-Nuur Lake"
+  },
+  "altai": {
+    "title": "File:Altai Tavan Bogd - Potanin glacier - panoramio.jpg",
+    "artist": "Mongolia Expeditions…",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Altai_Tavan_Bogd_-_Potanin_glacier_-_panoramio.jpg",
+    "file": "assets/altai.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Altai Tavan Bogd - Potanin glacier"
+  },
+  "yolyn": {
+    "title": "File:Yolyn Am 02.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Yolyn_Am_02.jpg",
+    "file": "assets/yolyn.jpg",
+    "changes": "Resized and JPEG compressed; cropped in card and hero display.",
+    "description": "Yolyn Am Canyon, Gobi Gurvansaikhan National Park, Mongolia"
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "1": {
+    "file": "assets/user_photos/001.jpg",
+    "original_filename": "otgontenger.png",
+    "destination": "Отгонтэнгэр хайрхан",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "2": {
+    "file": "assets/user_photos/002.jpg",
+    "original_filename": "ulaagchiin har nuur.png",
+    "destination": "Улаагчийн хар нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "3": {
+    "file": "assets/user_photos/003.jpg",
+    "original_filename": "bor hyariin els.png",
+    "destination": "Бор хярын элс",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "4": {
+    "file": "assets/user_photos/004.jpg",
+    "original_filename": "muhartiin gol.png",
+    "destination": "Мухартын гол",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "5": {
+    "file": "assets/user_photos/005.jpg",
+    "original_filename": "senjit had.png",
+    "destination": "Сэнжит цохио",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "6": {
+    "file": "assets/user_photos/006.jpg",
+    "original_filename": "алтай 5 богд.png",
+    "destination": "Алтай таван богд",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "7": {
+    "file": "assets/user_photos/007.jpg",
+    "original_filename": "потанины мөсөн гол.png",
+    "destination": "Потанины мөсөн гол",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "8": {
+    "file": "assets/user_photos/008.jpg",
+    "original_filename": "ёлтын сав газар.png",
+    "destination": "Ёлтын сав газар",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "9": {
+    "file": "assets/user_photos/009.jpg",
+    "original_filename": "их түргэний уулс.png",
+    "destination": "Их түргэний уулс",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "10": {
+    "file": "assets/user_photos/010.jpg",
+    "original_filename": "бага түргэний хүрхрээ.png",
+    "destination": "Бага түргэний хүрхрээ",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "11": {
+    "file": "assets/user_photos/011.jpg",
+    "original_filename": "их богд уул.png",
+    "destination": "Их богд уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "12": {
+    "file": "assets/user_photos/012.jpg",
+    "original_filename": "бөөн цагаан нуур.png",
+    "destination": "Бөөн цагаан нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "13": {
+    "file": "assets/user_photos/013.jpg",
+    "original_filename": "цагаан агуй.png",
+    "destination": "Цагаан агуй",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "14": {
+    "file": "assets/user_photos/014.jpg",
+    "original_filename": "галуутын хавцал.png",
+    "destination": "Галуутын хавцал",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "15": {
+    "file": "assets/user_photos/015.jpg",
+    "original_filename": "шаргалжуут.png",
+    "destination": "Шаргалжуут халуун рашаан",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "16": {
+    "file": "assets/user_photos/016.jpg",
+    "original_filename": "цамбагарав уул.png",
+    "destination": "Цамбагарав уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "17": {
+    "file": "assets/user_photos/017.jpg",
+    "original_filename": "хар ус нуур.png",
+    "destination": "Хар-Ус нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "18": {
+    "file": "assets/user_photos/018.jpg",
+    "original_filename": "дөргөн нуур.png",
+    "destination": "Дөргөн нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "19": {
+    "file": "assets/user_photos/019.jpg",
+    "original_filename": "буянт гол.png",
+    "destination": "Буянт гол",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "20": {
+    "file": "assets/user_photos/020.jpg",
+    "original_filename": "хойд цэнхэрийн агуй.png",
+    "destination": "Хойд цэнхэрийн агуй",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "21": {
+    "file": "assets/user_photos/021.jpg",
+    "original_filename": "ээж хайрхан уул.png",
+    "destination": "Ээж хайрхан уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "22": {
+    "file": "assets/user_photos/022.jpg",
+    "original_filename": "сутай хайрхан уул.png",
+    "destination": "Сутай хайрхан уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "23": {
+    "file": "assets/user_photos/023.jpg",
+    "original_filename": "эрээн нуур.png",
+    "destination": "Эрээн нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "24": {
+    "file": "assets/user_photos/024.jpg",
+    "original_filename": "яглагийн хавцал.png",
+    "destination": "Яглагийн хавцал",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "25": {
+    "file": "assets/user_photos/025.jpg",
+    "original_filename": "аж богдын нуруу.png",
+    "destination": "Аж богдын нуруу",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "26": {
+    "file": "assets/user_photos/026.jpg",
+    "original_filename": "увс нуур.png",
+    "destination": "Увс нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "27": {
+    "file": "assets/user_photos/027.jpg",
+    "original_filename": "хяргас нуур.png",
+    "destination": "Хяргас нуур (Хэцүү хад)",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "28": {
+    "file": "assets/user_photos/goojuur.png",
+    "destination": "Гоожуурын хүрхрээ",
+    "original_filename": "image(20261115-115924).png",
+    "source": "User-provided Goojuur Waterfall photograph",
+    "credit": "Original photographer/license not provided.",
+    "match_basis": "Destination identified by user."
+  },
+  "29": {
+    "file": "assets/user_photos/029.jpg",
+    "original_filename": "үүрэг нуур.png",
+    "destination": "Үүрэг нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "30": {
+    "file": "assets/user_photos/030.jpg",
+    "original_filename": "хан хөхийн уулс.png",
+    "destination": "Хан-хөхийн уулс",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "31": {
+    "file": "assets/user_photos/031.jpg",
+    "original_filename": "дэглий цагаан уул.png",
+    "destination": "Дэглий цагаан уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "32": {
+    "file": "assets/user_photos/032.jpg",
+    "original_filename": "тэрхийн цагаан нуур.png",
+    "destination": "Тэрхийн цагаан нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "33": {
+    "file": "assets/user_photos/033.jpg",
+    "original_filename": "тайхар чулуу.png",
+    "destination": "Тайхар чулуу",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "34": {
+    "file": "assets/user_photos/034.jpg",
+    "original_filename": "хоргын тогоо.png",
+    "destination": "Хоргын тогоо",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "35": {
+    "file": "assets/user_photos/035.jpg",
+    "original_filename": "чулуутын хавцал.png",
+    "destination": "Чулуутын хавцал",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "36": {
+    "file": "assets/user_photos/036.jpg",
+    "original_filename": "суварга хайрхан.png",
+    "destination": "Суварга хайрхан",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "37": {
+    "file": "assets/user_photos/037.jpg",
+    "original_filename": "хорьдол сарьдаг.png",
+    "destination": "Хорьдол сарьдаг",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "38": {
+    "file": "assets/user_photos/038.jpg",
+    "original_filename": "ар босготын хавцал.png",
+    "destination": "Ар босготын хавцал",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "39": {
+    "file": "assets/user_photos/039.jpg",
+    "original_filename": "хөвсгөл нуур.png",
+    "destination": "Хөвсгөл нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "40": {
+    "file": "assets/user_photos/040.jpg",
+    "original_filename": "саяны нуруу.png",
+    "destination": "Саяны нуруу",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "41": {
+    "file": "assets/user_photos/041.jpg",
+    "original_filename": "даян дээрхийн агуй.png",
+    "destination": "Даян дээрхийн агуй",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "42": {
+    "file": "assets/user_photos/042.jpg",
+    "original_filename": "хүйсийн найман нуур.png",
+    "destination": "Хүйсийн найман нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "43": {
+    "file": "assets/user_photos/043.jpg",
+    "original_filename": "эрдэнэ зуу хийд.png",
+    "destination": "Эрдэнэ зуу хийд",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "44": {
+    "file": "assets/user_photos/044.jpg",
+    "original_filename": "элсэн тасархай.png",
+    "destination": "Элсэн тасархай",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "45": {
+    "file": "assets/user_photos/045.jpg",
+    "original_filename": "улаан цутгалан.png",
+    "destination": "Улаан цутгалан",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "46": {
+    "file": "assets/user_photos/046.jpg",
+    "original_filename": "хархорум хот.png",
+    "destination": "Хархорум хот",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "47": {
+    "file": "assets/user_photos/047.jpg",
+    "original_filename": "зэрэглээ.png",
+    "destination": "Зэргэлээ",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "48": {
+    "file": "assets/user_photos/048.jpg",
+    "original_filename": "айргийн гозгор.png",
+    "destination": "Айргийн гозгор",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "49": {
+    "file": "assets/user_photos/049.jpg",
+    "original_filename": "бөөрөнхий сайр.png",
+    "destination": "Бөөрөнхий сайр",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "50": {
+    "file": "assets/user_photos/050.jpg",
+    "original_filename": "уран тогоо уул.png",
+    "destination": "Уран тогоо уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "51": {
+    "file": "assets/user_photos/051.jpg",
+    "original_filename": "эг сэлэнгийн бэлчир.png",
+    "destination": "Эг сэлэнгийн бэлчир",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "52": {
+    "file": "assets/user_photos/052.jpg",
+    "original_filename": "хар бухын балгас.png",
+    "destination": "Хар бухын балгас",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "53": {
+    "file": "assets/user_photos/053.jpg",
+    "original_filename": "харгал нуур.png",
+    "destination": "Харгал нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "54": {
+    "file": "assets/user_photos/054.jpg",
+    "original_filename": "хөгнө тарна байгалийн цогцолборт газар.png",
+    "destination": "Хөгнө Тарна байгалийн цогцолборт газар",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "55": {
+    "file": "assets/user_photos/055.jpg",
+    "original_filename": "их дархан уул.png",
+    "destination": "Их Дархан уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "56": {
+    "file": "assets/user_photos/056.jpg",
+    "original_filename": "хараа гол.png",
+    "destination": "Хараа гол",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "57": {
+    "file": "assets/user_photos/057.jpg",
+    "original_filename": "тужийн нарс.png",
+    "destination": "Тужийн нарс",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "58": {
+    "file": "assets/user_photos/058.jpg",
+    "original_filename": "сайханы хөтөл.png",
+    "destination": "Сайханы хөтөл",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "59": {
+    "file": "assets/user_photos/059.jpg",
+    "original_filename": "амарбаясгалант хийд.png",
+    "destination": "Амарбаясгалант хийд",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "60": {
+    "file": "assets/user_photos/060.jpg",
+    "original_filename": "дуут хад.png",
+    "destination": "Дуут хад",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "62": {
+    "file": "assets/user_photos/062.jpg",
+    "original_filename": "манзушир хийд.png",
+    "destination": "Манзушир хийд",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "63": {
+    "file": "assets/user_photos/063.jpg",
+    "original_filename": "зоргол хайрхан.png",
+    "destination": "Зоргол хайрхан",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "64": {
+    "file": "assets/user_photos/064.jpg",
+    "original_filename": "чингис хааны морьт хөшөө.png",
+    "destination": "Чингис хааны морьт хөшөө",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "65": {
+    "file": "assets/user_photos/065.jpg",
+    "original_filename": "гүнжийн сүм.png",
+    "destination": "Гүнжийн сүм",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "66": {
+    "file": "assets/user_photos/066.jpg",
+    "original_filename": "хустайн байгалийн цогцолбор.png",
+    "destination": "Хустайн байгалийн цогцолборт газар",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "67": {
+    "file": "assets/user_photos/067.jpg",
+    "original_filename": "бурхан халдун уул.png",
+    "destination": "Бурхан Халдун уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "68": {
+    "file": "assets/user_photos/068.jpg",
+    "original_filename": "хар зүрхний хөх нуур.png",
+    "destination": "Хар Зүрхний Хөх нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "69": {
+    "file": "assets/user_photos/069.jpg",
+    "original_filename": "дуурлиг нарсны булш.png",
+    "destination": "Дуурлиг нарсны булш",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "70": {
+    "file": "assets/user_photos/070.jpg",
+    "original_filename": "хэрлэнгийн хөдөө арал.png",
+    "destination": "Хэрлэнгийн хөдөө арал",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "71": {
+    "file": "assets/user_photos/071.jpg",
+    "original_filename": "дэлүүн болдог.png",
+    "destination": "Дэлүүн болдог",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "72": {
+    "file": "assets/user_photos/072.jpg",
+    "original_filename": "буйр нуур.png",
+    "destination": "Буйр нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "73": {
+    "file": "assets/user_photos/073.jpg",
+    "original_filename": "халх гол.png",
+    "destination": "Халх гол",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "74": {
+    "file": "assets/user_photos/074.jpg",
+    "original_filename": "мэнэнгийн тал.png",
+    "destination": "Мэнэнгийн тал",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "75": {
+    "file": "assets/user_photos/075.jpg",
+    "original_filename": "их бурхант.png",
+    "destination": "Их бурхант",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "76": {
+    "file": "assets/user_photos/076.jpg",
+    "original_filename": "чингисийн хэрмэн цав.png",
+    "destination": "Чингисийн хэрмэн цав",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "77": {
+    "file": "assets/user_photos/077.jpg",
+    "original_filename": "алтан-овоо.png",
+    "destination": "Алтан-Овоо",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "78": {
+    "file": "assets/user_photos/078.jpg",
+    "original_filename": "шилийн богд.png",
+    "destination": "Шилийн богд",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "79": {
+    "file": "assets/user_photos/079.jpg",
+    "original_filename": "ганга нуур.png",
+    "destination": "Ганга нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "80": {
+    "file": "assets/user_photos/080.jpg",
+    "original_filename": "талын агуй.png",
+    "destination": "Талын агуй",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "81": {
+    "file": "assets/user_photos/081.jpg",
+    "original_filename": "дуут нуур.png",
+    "destination": "Дуут нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "82": {
+    "file": "assets/user_photos/082.jpg",
+    "original_filename": "хамрын хийд.png",
+    "destination": "Хамрын хийд",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "83": {
+    "file": "assets/user_photos/084.jpg",
+    "original_filename": "эргэлийн зоо.png",
+    "destination": "Эргэлийн зоо",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "84": {
+    "file": "assets/user_photos/085.jpg",
+    "original_filename": "цонжийн чулуу.png",
+    "destination": "Цонжийн чулуу",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "85": {
+    "file": "assets/user_photos/086.jpg",
+    "original_filename": "ёлын ам.png",
+    "destination": "Ёлын ам",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "86": {
+    "file": "assets/user_photos/087.jpg",
+    "original_filename": "хонгорын элс.png",
+    "destination": "Хонгорын элс",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "87": {
+    "file": "assets/user_photos/088.jpg",
+    "original_filename": "хэрмэн цав.png",
+    "destination": "Хэрмэн цав",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "88": {
+    "file": "assets/user_photos/089.jpg",
+    "original_filename": "дэмчогийн хийд.png",
+    "destination": "Дэмчогийн хийд",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "89": {
+    "file": "assets/user_photos/090.jpg",
+    "original_filename": "баянзаг.png",
+    "destination": "Баянзаг",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "90": {
+    "file": "assets/user_photos/091.jpg",
+    "original_filename": "цагаан суварга.png",
+    "destination": "Цагаан суварга",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "91": {
+    "file": "assets/user_photos/092.jpg",
+    "original_filename": "бага газрын чулуу.png",
+    "destination": "Бага газрын чулуу",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "92": {
+    "file": "assets/user_photos/093.jpg",
+    "original_filename": "их газрын чулуу.png",
+    "destination": "Их газрын чулуу",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "93": {
+    "file": "assets/user_photos/094.jpg",
+    "original_filename": "сүм хөх бүрд.png",
+    "destination": "Сүм хөх бүрд",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "94": {
+    "file": "assets/user_photos/095.jpg",
+    "original_filename": "дэлгэрхангай уул.png",
+    "destination": "Дэлгэрхангай уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "95": {
+    "file": "assets/user_photos/096.jpg",
+    "original_filename": "чойрын богд уул.png",
+    "destination": "Чойрын богд уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "96": {
+    "file": "assets/user_photos/097.jpg",
+    "original_filename": "хүслийн хад.png",
+    "destination": "Хүслийн хад",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "97": {
+    "file": "assets/user_photos/098.jpg",
+    "original_filename": "хаялга нуур.png",
+    "destination": "Хаялга нуур",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "98": {
+    "file": "assets/user_photos/099.jpg",
+    "original_filename": "сүмбэр хайрхан уул.png",
+    "destination": "Сүмбэр хайрхан уул",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "99": {
+    "file": "assets/user_photos/100.jpg",
+    "original_filename": "цоорхойн рашаан.png",
+    "destination": "Цоорхойн рашаан",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "100": {
+    "file": "assets/user_photos/083.jpg",
+    "original_filename": "цагаан дарь эх.png",
+    "destination": "Цагаан дарь эх",
+    "source": "User-supplied pictures(1).zip",
+    "credit": "User-supplied photo; original photographer/license not provided.",
+    "match_basis": "Filename matched to place; location not independently verified."
+  },
+  "61": {
+    "file": "assets/user_photos/061.png",
+    "original_filename": "ээж мод.png",
+    "destination": "Ээж мод",
+    "source": "User supplied",
+    "credit": "User supplied photo",
+    "match_basis": "Explicitly identified by user"
+  }
+}
